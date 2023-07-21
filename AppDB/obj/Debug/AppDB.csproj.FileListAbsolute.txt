@@ -1,0 +1,79 @@
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\bin\Debug\AppDB.exe.config
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\bin\Debug\AppDB.exe
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\bin\Debug\AppDB.pdb
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.Main.resources
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.Properties.Resources.resources
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.exe
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.pdb
+C:\Users\user\Desktop\Курсовой проект\курсовая БД Firebird\курсовая БД Firebird\AppDB\AppDB\obj\Debug\AppDB.NewForm.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\AppDB.exe.config
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.exe
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.pdb
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Main.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.NewForm.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Properties.Resources.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\AppDB.exe
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\AppDB.pdb
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\Npgsql.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\Npgsql.pdb
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\Npgsql.xml
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.NewBrand.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.NewPurchase.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.NewCar.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.NewTechnical_details.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.AddPurchase.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.Form_ReportQuery.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\bin\Debug\Mono.Security.dll
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.BackupForm.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.SearchForm.resources
+C:\Users\user\Desktop\Курсовой проект\AppDB\AppDB\obj\Debug\AppDB.Forms.Avto_Count.resources
+C:\Users\user\Desktop\Github\CarSalonDB\AppDB\AppDB\bin\Debug\AppDB.exe.config
+C:\Users\user\Desktop\Github\CarSalonDB\AppDB\AppDB\obj\Debug\AppDB.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Github\CarSalonDB\AppDB\AppDB\obj\Debug\AppDB.exe
+C:\Users\user\Desktop\Github\CarSalonDB\AppDB\AppDB\obj\Debug\AppDB.pdb
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\AppDB.exe.config
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\AppDB.exe
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\AppDB.pdb
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\MaterialSkin.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\Mono.Security.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\Npgsql.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.ValueTuple.dll
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\Npgsql.pdb
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\Npgsql.xml
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\bin\Debug\System.ValueTuple.xml
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.csproj.ResolveComReference.cache
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.AddPurchase.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.BackupForm.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.Avto_Count.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.Form_ReportQuery.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.NewCar.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.NewPurchase.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Main.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.NewBrand.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.NewForm.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.NewTechnical_details.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Forms.SearchForm.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.Properties.Resources.resources
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.csproj.GenerateResource.cache
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.exe
+D:\Универ\Разделы дипломов\Мекаркарныч\CarSalonDB-master\AppDB\AppDB\obj\Debug\AppDB.pdb
